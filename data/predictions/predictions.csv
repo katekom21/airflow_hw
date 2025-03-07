@@ -1,0 +1,11 @@
+id,price_category
+"0    7315173150
+Name: id, dtype: int64",['low']
+"0    7310993818
+Name: id, dtype: int64",['low']
+"0    7313922964
+Name: id, dtype: int64",['high']
+"0    7316509996
+Name: id, dtype: int64",['high']
+"0    7316152972
+Name: id, dtype: int64",['medium']
